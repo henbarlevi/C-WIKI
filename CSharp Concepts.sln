@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ", "LINQ\LINQ.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parallel", "Parallel\Parallel.csproj", "{46FF3DD1-9652-445F-92C3-CAA54CB0CECF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{5114C014-66B7-425C-961C-EC728B78F78D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{5114C014-66B7-425C-961C-EC728B78F78D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates-Events", "Delegates-Events\Delegates-Events.csproj", "{73BFB963-583F-479C-BD3F-A09419795C0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{5114C014-66B7-425C-961C-EC728B78F78D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5114C014-66B7-425C-961C-EC728B78F78D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5114C014-66B7-425C-961C-EC728B78F78D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73BFB963-583F-479C-BD3F-A09419795C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BFB963-583F-479C-BD3F-A09419795C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BFB963-583F-479C-BD3F-A09419795C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BFB963-583F-479C-BD3F-A09419795C0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
